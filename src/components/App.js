@@ -3,7 +3,6 @@ import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 import ProductList from "./components/ProductList";
 import ProductDetails from "./components/ProductDetails";
 import AdminPanel from "./components/AdminPanel";
-
 import { initialProducts } from "./data";
 import "./styles.css";
 
